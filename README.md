@@ -1,6 +1,6 @@
 # Summarization in a tick of time!
 
-Summarization is a process of shortening the whole context of a document to a short sentence or sentences. Here we use the natural language process techniques to create a summary of the given data. More information can be found in this blog:
+Summarization is a process of shortening the whole context of a document to a short sentence or sentences. Here we use the natural language process techniques to create a summary of the given data. More information can be found in this blog: https://medium.com/@rahulmadan_18191/summarizations-in-a-tick-of-time-nlp-1d536d937357
 
 We compare the summarizers performance using the various nlp models for the given data:
 1. In Extractive Summarization we use the models like:
@@ -43,7 +43,7 @@ The file - Summarization.py within folder Summarizer can be tuned for model or p
   - transformer_model_key
 2. In Bart and T5
   - model
-  - pipeline (more information on this can be found in this blog: )
+  - pipeline (more information on this can be found in this blog: https://medium.com/analytics-vidhya/nlp-pipelines-in-a-single-line-of-code-500b3266ac7b)
    
    
    Please rate a star if you find this repo useful! 
