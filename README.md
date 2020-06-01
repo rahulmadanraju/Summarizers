@@ -27,6 +27,12 @@ pip install -r requirements.txt
 ```
 python sum_file.py
 ```
+4. Ouptut:
+```
+If you are not born with the blue eyes, to obtain blue eyes naturally is not possible. There are many type of laser surgeries in the market which can change the colour of your eye to blue. In the special type of surgery, Dr burn the lower layer of melanin in your eyes.
+[{'rouge-1': {'f': 0.1920289837713322, 'p': 1.0, 'r': 0.1062124248496994}, 'rouge-2': {'f': 0.18545454374241324, 'p': 0.9807692307692307, 'r': 0.10240963855421686}, 
+'rouge-l': {'f': 0.3083333307253473, 'p': 1.0, 'r': 0.18226600985221675}}]
+```
 
 ### Model Parameters:
 
